@@ -1,0 +1,36 @@
+*,
+*:visited,
+*:link {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+	font-size: inherit;
+	color: inherit;
+	box-sizing: border-box;
+	font-family: inherit;
+	text-decoration: none;
+	font-weight: inherit;
+}
+ul li {
+	list-style: none;
+}
+header,
+main,
+footer,
+section,
+nav,
+aside,
+button {
+	display: block;
+}
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	text-size-adjust: 100%;
+}
+button {
+	cursor: pointer;
+}
